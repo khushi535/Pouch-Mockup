@@ -50,13 +50,8 @@ Have ideas for new mockup categories or specific designs? Feel free to open an i
 
 ## License
 
-This repository is for showcasing purposes only. All mockups are available for purchase and download exclusively at [MockupDaddy].
+This repository is for showcasing purposes only. All mockups are available for purchase and download exclusively at MockupDaddy.
 
-## Stay Connected
-
-Follow us for the latest updates on new mockups and design resources:
-
-- [Website](https://www.mockupdaddy.com)
 ---
 
-Enhance your creative projects with premium mockups from [MockupDaddy.com].
+Enhance your creative projects with premium mockups from [MockupDaddy.com](https://www.mockupdaddy.com)
