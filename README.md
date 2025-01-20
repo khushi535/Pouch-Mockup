@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e7f5e993-ceda-4529-a2bd-bdd7837d6610)
+![image](https://github.com/user-attachments/assets/39a72de7-42ed-4e4d-b647-c87d0173737b)
 
 # Pouch Mockups - Premium Quality Design Resources
 
@@ -14,17 +14,18 @@ Pouch mockups are an essential tool for:
 
 Explore a wide variety of high-quality mockups designed to meet your needs. From stand-up pouches to flat pouches, we have it all.
 
-![image](https://github.com/user-attachments/assets/39a72de7-42ed-4e4d-b647-c87d0173737b)
+![image](https://github.com/user-attachments/assets/5e247193-213a-4d1c-9de9-bbed4766328e)
+
 ## Explore Our Collection
 
-Discover the best **[Pouch Mockups](https://www.mockupdaddy.com/pouch-mockup)** for your design needs. Our collection includes:
+Discover the best [Pouch Mockups](https://www.mockupdaddy.com/pouch-mockup) for your design needs. Our collection includes:
 
 - Stand-up pouch mockups
 - Flat pouch mockups
 - Matte and glossy finishes
 - Customizable templates for unique projects
 
-[Visit our Pouch Mockup category] to browse the complete collection.
+Visit our Pouch Mockup category to browse the complete collection.
 
 ![image](https://github.com/user-attachments/assets/efa7cd30-77d7-4f18-8d66-0961f4126162)
 
@@ -37,7 +38,7 @@ Discover the best **[Pouch Mockups](https://www.mockupdaddy.com/pouch-mockup)** 
 
 ## How to Use
 
-1. Download your preferred mockup from our [Pouch Mockup category].
+1. Download your preferred mockup from our Pouch Mockup category.
 2. Open the PSD file in Adobe Photoshop.
 3. Customize the design layers to suit your project.
 4. Export and showcase your final design!
@@ -54,4 +55,4 @@ This repository is for showcasing purposes only. All mockups are available for p
 
 ---
 
-Enhance your creative projects with premium mockups from [MockupDaddy.com](https://www.mockupdaddy.com)
+Uplift your creative projects with premium mockups from [MockupDaddy.com](https://www.mockupdaddy.com)
