@@ -54,7 +54,6 @@ This repository is for showcasing purposes only. All mockups are available for p
 Follow us for the latest updates on new mockups and design resources:
 
 - [Website](https://www.mockupdaddy.com)
-
 ---
 
 Enhance your creative projects with premium mockups from [MockupDaddy.com].
