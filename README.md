@@ -54,8 +54,6 @@ This repository is for showcasing purposes only. All mockups are available for p
 Follow us for the latest updates on new mockups and design resources:
 
 - [Website](https://www.mockupdaddy.com)
-- [Instagram](#) *(Add your social link here)*
-- [Twitter](#) *(Add your social link here)*
 
 ---
 
